@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\bin\Debug\programma1.exe.config
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\bin\Debug\programma1.exe
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\bin\Debug\programma1.pdb
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\obj\Debug\programma1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\obj\Debug\programma1.Form1.resources
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\obj\Debug\programma1.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\obj\Debug\programma1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\obj\Debug\programma1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\obj\Debug\programma1.exe
+C:\Users\user\OneDrive\Desktop\c#\programma1\programma1\obj\Debug\programma1.pdb
